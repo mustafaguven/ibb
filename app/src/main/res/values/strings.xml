@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">İBB CepTrafik</string>
+  <string name="default_progress_message">Lütfen bekleyin</string>
+</resources>
